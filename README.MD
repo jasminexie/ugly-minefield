@@ -15,3 +15,15 @@ The code is UGLY. I know.
 * Redesign whole board, add graphics and music
 * Add timer and scoreboard
 * Refractor the code!!!!
+
+## Running the code
+
+1. Open your terminal.
+ 
+````
+git clone https://github.com/jasminexie/ugly-minefield
+````
+
+2. cd ./ugly-minefield/src
+3. javac *.java
+4. java Minefield
